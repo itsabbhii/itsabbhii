@@ -60,9 +60,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkprajapati&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkprajapati&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkprajapati&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsabbhii&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsabbhii&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabbhii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
